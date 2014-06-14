@@ -1,3 +1,10 @@
+Original code by:
+
+    author:        Roel van Dijk
+    maintainer:    vandijk.roel@gmail.com
+    copyright:     (c) 2009 Roel van Dijk
+    license:       BSD3
+
 See examples/simple.hs
 
 Removed the gtk dependencies/code for two reasons:
